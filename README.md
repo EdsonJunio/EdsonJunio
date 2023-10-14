@@ -11,6 +11,12 @@
 ## Tecnologias que uso no meu dia
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 
@@ -26,6 +32,13 @@
 </div><br/>
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
