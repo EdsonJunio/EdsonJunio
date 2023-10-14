@@ -20,4 +20,4 @@
      <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>  
 </div><br/>
 
-Apaixonado por tecnologia.
+Entusiasta de tecnologia e eterno aprendiz, apaixonado por desafios e sempre em busca de conhecimento para impulsionar o futuro. 🚀 #Tecnologia #AprendizadoConstante.
