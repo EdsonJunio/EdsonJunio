@@ -35,7 +35,7 @@
  
  
 <br/>
-## <p align="center">Olá! Seja bem vindo! 👋🏽</p>
+<h1 style="text-align: center; font-size: 36px;">Olá! Seja bem vindo! 👋🏽</h1>
 <br/>
 <br/>
 <br/>
