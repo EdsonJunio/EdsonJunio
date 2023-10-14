@@ -35,7 +35,8 @@
  
  
 <br/>
-<h1 style="text-align: center; font-size: 36px;">Olá! Seja bem vindo! 👋🏽</h1>
+<h1 align="center">Olá! Eu sou o Edson Junio! 👋🏽</h1>
+</h1>
 <br/>
 <br/>
 <br/>
