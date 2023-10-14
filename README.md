@@ -31,9 +31,11 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
 
-
+ 
+ 
+  <h1 style="text-align: center;">Olá! Seja bem vindo! 👋🏽</h1>
+ 
 <br/>
- <h1 style="text-align: center;">Olá! Seja bem vindo! 👋🏽</h1>
 <br/>
 <br/>
 <br/>
