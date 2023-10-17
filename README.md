@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-almeida-154b44192/)
 
 
-.[![Edson GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonJunio&show_icons=true&theme=dracula)
+![Edson GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonJunio&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunio)](https://github.com/anuraghazra/github-readme-stats)
 
